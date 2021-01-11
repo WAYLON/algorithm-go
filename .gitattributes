@@ -1,0 +1,5 @@
+*.js linguist-language=javascript
+*.css linguist-language=css
+*.java linguist-language=java
+*.go linguist-language=go
+*.vue linguist-language=vue
