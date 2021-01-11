@@ -2,5 +2,7 @@
 
 ## 数据结构
 ### sparsearray 稀疏数组
+### singlequeue 数组模拟队列
+### circelqueue 数组模拟环形队列
 
 ## leetCode
