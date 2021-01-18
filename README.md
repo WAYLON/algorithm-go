@@ -8,5 +8,6 @@
 ### doublelink 双向链表
 ### circlesinglelink 环形链表
 ### josephu 约瑟夫环
+### bubblesort 冒泡排序
 
 ## leetCode
