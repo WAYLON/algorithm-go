@@ -20,6 +20,8 @@
 
 ### selectsort 选择排序
 
+### insertsort 插入排序
+
 ## leetCode
 
 ### maximumProduct 628. 三个数的最大乘积
