@@ -27,3 +27,5 @@
 ## leetCode
 
 ### maximumProduct 628. 三个数的最大乘积
+
+### numEquivDominoPairs 1128. 等价多米诺骨牌对的数量
