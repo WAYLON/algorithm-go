@@ -24,6 +24,9 @@
 
 ### quicksort 快速排序
 
+### stack 栈
+
+
 ## leetCode
 
 ### maximumProduct 628. 三个数的最大乘积
