@@ -32,3 +32,5 @@
 ### maximumProduct 628. 三个数的最大乘积
 
 ### numEquivDominoPairs 1128. 等价多米诺骨牌对的数量
+
+### pivotIndex 724. 寻找数组的中心索引
