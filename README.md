@@ -34,3 +34,5 @@
 ### numEquivDominoPairs 1128. 等价多米诺骨牌对的数量
 
 ### pivotIndex 724. 寻找数组的中心索引
+
+### minimumEffortPath 1631. 最小体力消耗路径(并查集)
