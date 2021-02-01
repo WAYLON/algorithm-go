@@ -36,3 +36,5 @@
 ### pivotIndex 724. 寻找数组的中心索引
 
 ### minimumEffortPath 1631. 最小体力消耗路径(并查集)
+
+### fairCandySwap 888. 公平的糖果棒交换
