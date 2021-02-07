@@ -38,3 +38,5 @@
 ### minimumEffortPath 1631. 最小体力消耗路径(并查集)
 
 ### fairCandySwap 888. 公平的糖果棒交换
+
+### fairCandySwap 665. 非递减数列
