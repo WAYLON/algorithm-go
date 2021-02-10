@@ -40,3 +40,5 @@
 ### fairCandySwap 888. 公平的糖果棒交换
 
 ### fairCandySwap 665. 非递减数列
+
+### checkInclusion 567. 字符串的排列
