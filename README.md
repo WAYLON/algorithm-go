@@ -42,3 +42,5 @@
 ### fairCandySwap 665. 非递减数列
 
 ### checkInclusion 567. 字符串的排列
+
+### matrixReshape 566. 重塑矩阵
