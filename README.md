@@ -49,6 +49,8 @@
 
 ### `longestOnes 1004. 最大连续1的个数 III`
 
+### `findShortestSubArray 697. 数组的度`
+
 
 ##  程序员面试金典（第 6 版）
 
