@@ -51,6 +51,8 @@
 
 ### `findShortestSubArray 697. 数组的度`
 
+### `longestSubarray 1438. 绝对差不超过限制的最长连续子数组`
+
 
 ##  程序员面试金典（第 6 版）
 
