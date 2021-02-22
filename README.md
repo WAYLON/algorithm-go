@@ -53,6 +53,8 @@
 
 ### `longestSubarray 1438. 绝对差不超过限制的最长连续子数组`
 
+### `isToeplitzMatrix 766. 托普利茨矩阵`
+
 
 ##  程序员面试金典（第 6 版）
 
