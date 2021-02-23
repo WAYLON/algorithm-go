@@ -55,6 +55,8 @@
 
 ### `isToeplitzMatrix 766. 托普利茨矩阵`
 
+### `maxSatisfied 1052. 爱生气的书店老板`
+
 
 ##  程序员面试金典（第 6 版）
 
