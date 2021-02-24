@@ -63,6 +63,8 @@
 
 ### `flipAndInvertImage 832. 翻转图像`
 
+### `climbStairs 70. 爬楼梯`
+
 
 ##  程序员面试金典（第 6 版）
 
