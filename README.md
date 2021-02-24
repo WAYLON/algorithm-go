@@ -61,6 +61,8 @@
 
 ### `decodeString 394. 字符串解码`
 
+### `flipAndInvertImage 832. 翻转图像`
+
 
 ##  程序员面试金典（第 6 版）
 
