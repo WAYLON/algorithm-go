@@ -82,3 +82,5 @@
 ## 剑指 Offer（第 2 版）
 
 ### `findNumberIn2DArray 剑指 Offer 04. 二维数组中的查找`
+
+### `reversePrint 剑指 Offer 06. 从尾到头打印链表`
