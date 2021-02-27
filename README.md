@@ -2,7 +2,7 @@
 
 ## 数据结构
 
-### ` sparsearray 稀疏数组`
+### `sparsearray 稀疏数组`
 
 ### `singlequeue 数组模拟队列`
 
@@ -86,3 +86,5 @@
 ### `findNumberIn2DArray 剑指 Offer 04. 二维数组中的查找`
 
 ### `reversePrint 剑指 Offer 06. 从尾到头打印链表`
+
+### `buildTree 剑指 Offer 07. 重建二叉树`
