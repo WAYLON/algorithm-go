@@ -2,7 +2,7 @@
 
 ## 数据结构
 
-###` sparsearray 稀疏数组`
+### ` sparsearray 稀疏数组`
 
 ### `singlequeue 数组模拟队列`
 
@@ -66,6 +66,8 @@
 ### `climbStairs 70. 爬楼梯`
 
 ### `transpose 867. 转置矩阵`
+
+### `longestSubstring 395. 至少有 K 个重复字符的最长子串`
 
 
 ##  程序员面试金典（第 6 版）
