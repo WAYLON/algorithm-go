@@ -71,6 +71,8 @@
 
 ### `isMonotonic 896. 单调数列`
 
+### `longestPalindrome 409. 最长回文串`
+
 
 ##  程序员面试金典（第 6 版）
 
