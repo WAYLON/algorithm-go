@@ -75,6 +75,8 @@
 
 ### `NumArray 303. 区域和检索 - 数组不可变`
 
+### `longestPalindromeSubstring 5. 最长回文子串`
+
 
 ##  程序员面试金典（第 6 版）
 
