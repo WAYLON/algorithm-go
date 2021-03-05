@@ -106,3 +106,5 @@
 ### `CQueue 剑指 Offer 09. 用两个栈实现队列`
 
 ### `minArray 剑指 Offer 11. 旋转数组的最小数字`
+
+### `exist 剑指 Offer 12. 矩阵中的路径`
