@@ -121,3 +121,5 @@
 ### `exist 剑指 Offer 12. 矩阵中的路径`
 
 ### `movingCount 剑指 Offer 13. 机器人的运动范围(dfs,bfs)`
+
+### `cuttingRope 剑指 Offer 14- I. 剪绳子`
