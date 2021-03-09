@@ -123,3 +123,5 @@
 ### `movingCount 剑指 Offer 13. 机器人的运动范围(dfs,bfs)`
 
 ### `cuttingRope 剑指 Offer 14- I. 剪绳子`
+
+### `cuttingRope 剑指 Offer 14- II. 剪绳子 II（快速幂算法）`
