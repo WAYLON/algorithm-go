@@ -131,3 +131,5 @@
 ### `hammingWeight 剑指 Offer 15. 二进制中1的个数（与运算技巧）`
 
 ### `myPow 剑指 Offer 16. 数值的整数次方（快速幂算法）`
+
+### `printNumbers 剑指 Offer 17. 打印从1到最大的n位数（大数全排列解法）`
