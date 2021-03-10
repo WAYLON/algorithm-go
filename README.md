@@ -128,4 +128,6 @@
 
 ### `cuttingRope 剑指 Offer 14- II. 剪绳子 II（快速幂算法）`
 
+### `hammingWeight 剑指 Offer 15. 二进制中1的个数（与运算技巧）`
+
 ### `myPow 剑指 Offer 16. 数值的整数次方（快速幂算法）`
