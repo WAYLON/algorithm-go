@@ -127,3 +127,5 @@
 ### `cuttingRope 剑指 Offer 14- I. 剪绳子`
 
 ### `cuttingRope 剑指 Offer 14- II. 剪绳子 II（快速幂算法）`
+
+### `myPow 剑指 Offer 16. 数值的整数次方（快速幂算法）`
