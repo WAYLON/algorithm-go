@@ -138,4 +138,6 @@
 
 ### `printNumbers 剑指 Offer 17. 打印从1到最大的n位数（大数全排列解法）`
 
-### `deleteNode 剑指 Offer 18. 删除链表的节点`
+### `deleteNode 剑指 Offer 18. 删除链表的节点（双指针）`
+
+### `isMatch 剑指 Offer 19. 正则表达式匹配(动态规划)`
