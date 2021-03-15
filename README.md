@@ -148,4 +148,6 @@
 
 ### `isMatch 剑指 Offer 19. 正则表达式匹配(动态规划)`
 
-### `exchange 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面`
+### `exchange 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面（双指针、快慢指针）`
+
+### `getKthFromEnd 剑指 Offer 22. 链表中倒数第k个节点（快慢指针）`
