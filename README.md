@@ -167,3 +167,5 @@
 ### `isSymmetric 剑指 Offer 28. 对称的二叉树（递归、bfs）`
 
 ### `spiralOrder 剑指 Offer 29. 顺时针打印矩阵`
+
+### `validateStackSequences 剑指 Offer 31. 栈的压入、弹出序列(栈)`
