@@ -66,6 +66,31 @@ func reverseLinkedList(node *ListNode) {
 	}
 }
 
+/**
+头插法
+*/
+func reverseBetween2(head *ListNode, left int, right int) *ListNode {
+	//避免讨论头节点
+	dummyNode := &ListNode{Val: -1}
+	dummyNode.Next = head
+	g := dummyNode
+	//从假头遍历到左节点的前一个节点
+	for i := 0; i < left-1; i++ {
+		g = g.Next
+	}
+	p := g.Next
+
+	for i := 0; i < right-left; i++ {
+		delNode := p.Next
+		p.Next = p.Next.Next
+
+		delNode.Next = g.Next
+		g.Next = delNode
+	}
+
+	return dummyNode.Next
+}
+
 func main() {
 
 }
