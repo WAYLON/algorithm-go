@@ -79,6 +79,27 @@ func levelOrder2(root *TreeNode) [][]int {
 	return res1
 }
 
+/**
+//错误写法 不知道为啥不行
+func levelOrder(root *TreeNode) [][]int {
+	res := make([][]int, 0)
+	dfs(res,root, 0)
+	return res
+}
+
+func dfs(res [][]int, root *TreeNode, i int) {
+	if root == nil {
+		return
+	}
+	if len(res)-1 < i {
+		res = append(res, make([]int, 0))
+	}
+	res[i] = append(res[i], root.Val)
+	dfs(res,root.Left, i+1)
+	dfs(res,root.Right, i+1)
+}
+*/
+
 func main() {
 	node := &TreeNode{Val: 3, Left: &TreeNode{Val: 9}, Right: &TreeNode{Val: 20, Left: &TreeNode{Val: 15}, Right: &TreeNode{Val: 7}}}
 	levelOrder2(node)
