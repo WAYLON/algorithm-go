@@ -117,6 +117,8 @@
 
 ### [`NestedIterator 341. 扁平化嵌套列表迭代器（栈、队列）`](./leetcode/NestedIterator/NestedIterator.go)
 
+### [`find132pattern 456. 132 模式（栈）`](./leetcode/find132pattern/find132pattern.go)
+
 
 
 ##  程序员面试金典（第 6 版）
