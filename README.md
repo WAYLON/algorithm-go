@@ -191,3 +191,5 @@
 ### `copyRandomList 剑指 Offer 35. 复杂链表的复制（map,原地复制）`
 
 ### [`treeToDoublyList 剑指 Offer 36. 二叉搜索树与双向链表（dfs）`](./lcof/treeToDoublyList/treeToDoublyList.go)
+
+### [`serialize 剑指 Offer 37. 序列化二叉树（层序遍历、找规律）`](./lcof/serialize/serialize.go)
