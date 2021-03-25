@@ -123,6 +123,8 @@
 
 ### [`deleteDuplicates1 82. 删除排序链表中的重复元素 II`](./leetcode/deleteDuplicates1/deleteDuplicates1.go)
 
+### [`hasCycle 141. 环形链表(快慢指针,自删,字典,反转链表再比较)`](./leetcode/hasCycle/hasCycle.go)
+
 
 
 ##  程序员面试金典（第 6 版）
