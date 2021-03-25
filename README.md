@@ -193,3 +193,5 @@
 ### [`treeToDoublyList 剑指 Offer 36. 二叉搜索树与双向链表（dfs）`](./lcof/treeToDoublyList/treeToDoublyList.go)
 
 ### [`serialize 剑指 Offer 37. 序列化二叉树（层序遍历、找规律）`](./lcof/serialize/serialize.go)
+
+### [`permutation 剑指 Offer 38. 字符串的排列（回溯算法）`](./lcof/permutation/permutation.go)
