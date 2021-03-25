@@ -119,6 +119,10 @@
 
 ### [`find132pattern 456. 132 模式（栈）`](./leetcode/find132pattern/find132pattern.go)
 
+### [`deleteDuplicates 83. 删除排序链表中的重复元素`](./leetcode/deleteDuplicates/deleteDuplicates.go)
+
+### [`deleteDuplicates1 82. 删除排序链表中的重复元素 II`](./leetcode/deleteDuplicates1/deleteDuplicates1.go)
+
 
 
 ##  程序员面试金典（第 6 版）
