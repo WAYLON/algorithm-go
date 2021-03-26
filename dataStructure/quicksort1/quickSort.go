@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"math/rand"
 	"time"
 )
 
@@ -10,42 +9,40 @@ import (
 快速排序 时间复杂的为nlogn
 public class Solution {
 
-    public static void quickSort(int[] arr, int low, int high) {
-        if (low >= high) return;
+   public static void quickSort(int[] arr, int low, int high) {
+        int i, j, temp, t;
+        if (low > high) {
+            return;
+        }
+        i = low;
+        j = high;
+        //temp就是基准位
+        temp = arr[low];
 
-        //基准
-        int target = arr[low];
-        //变量
-        int i = low;
-        int j = high;
-        //临时变量
-        int temp;
         while (i < j) {
-            //右侧j寻找小于基准数字的节点
-            while (j > i && arr[j] >= target) {
+            //先看右边，依次往左递减
+            while (temp <= arr[j] && i < j) {
                 j--;
             }
-
-            //左侧i寻找大于基准数字的节点
-            while (i < j && arr[i] <= target) {
+            //再看左边，依次往右递增
+            while (temp >= arr[i] && i < j) {
                 i++;
             }
-
+            //如果满足条件则交换
             if (i < j) {
-                temp = arr[i];
-                arr[i] = arr[j];
-                arr[j] = temp;
+                t = arr[j];
+                arr[j] = arr[i];
+                arr[i] = t;
             }
 
-            //如果i == j找到了 交换基准数字
-            arr[low] = arr[i];
-            arr[i] = target;
-
         }
-
-        quickSort(arr, low, i - 1);
-        quickSort(arr, i + 1, high);
-
+        //最后将基准为与i和j相等位置的数字交换
+        arr[low] = arr[i];
+        arr[i] = temp;
+        //递归调用左半数组
+        quickSort(arr, low, j - 1);
+        //递归调用右半数组
+        quickSort(arr, j + 1, high);
     }
 
     public static void main(String[] args) {
@@ -78,18 +75,18 @@ func quickSort(low int, high int, array []int) {
 		if j > i {
 			array[i], array[j] = array[j], array[i]
 		}
-		array[low], array[i] = array[low], array[j]
-	}
 
+	}
+	array[low], array[i] = array[i], target
 	quickSort(low, i-1, array)
 	quickSort(i+1, high, array)
 
 }
 func main() {
-	var arr []int
-	for i := 0; i < 800000; i++ {
+	var arr []int = []int{1, 23, 4, 5, 6, 7, 56, 46, 456, 45, 654}
+	/*for i := 0; i < 8; i++ {
 		arr = append(arr, rand.Intn(900000))
-	}
+	}*/
 
 	//fmt.Println(arr)
 	start := time.Now().Unix()
