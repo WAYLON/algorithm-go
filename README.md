@@ -201,3 +201,5 @@
 ### [`serialize 剑指 Offer 37. 序列化二叉树（层序遍历、找规律）`](./lcof/serialize/serialize.go)
 
 ### [`permutation 剑指 Offer 38. 字符串的排列（回溯算法）`](./lcof/permutation/permutation.go)
+
+### [`majorityElement 剑指 Offer 39. 数组中出现次数超过一半的数字（摩尔投票,字典,排序）`](./lcof/majorityElement/majorityElement.go)
