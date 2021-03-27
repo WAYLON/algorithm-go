@@ -125,6 +125,8 @@
 
 ### [`hasCycle 141. 环形链表(快慢指针,自删,字典,反转链表再比较)`](./leetcode/hasCycle/hasCycle.go)
 
+### [`rotateRight 61. 旋转链表（闭合成环）`](./leetcode/rotateRight/rotateRight.go)
+
 
 
 ##  程序员面试金典（第 6 版）
