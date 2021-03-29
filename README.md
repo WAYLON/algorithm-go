@@ -24,6 +24,8 @@
 
 ### `quicksort 快速排序`
 
+### `mergeSort 归并排序`
+
 ### `stack 栈`
 
 
