@@ -215,3 +215,5 @@
 ### [`getLeastNumbers 剑指 Offer 40. 最小的k个数(最大堆,快速选择)`](./lcof/getLeastNumbers/getLeastNumbers.go)
 
 ### [`MedianFinder 剑指 Offer 41. 数据流中的中位数（最大堆、最小堆）`](./lcof/MedianFinder/MedianFinder.go)
+
+### [`maxSubArray 剑指 Offer 42. 连续子数组的最大和（动态规划）`](./lcof/maxSubArray/maxSubArray.go)
