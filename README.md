@@ -131,6 +131,8 @@
 
 ### [`inorderTraversal 94. 二叉树的中序遍历（递归、栈迭代、莫里斯）`](./leetcode/inorderTraversal/inorderTraversal.go)
 
+### [`reverseBits 190. 颠倒二进制位（分治算法、逐位分离）`](./leetcode/reverseBits/reverseBits.go)
+
 
 
 ##  程序员面试金典（第 6 版）
