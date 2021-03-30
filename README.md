@@ -221,3 +221,5 @@
 ### [`MedianFinder 剑指 Offer 41. 数据流中的中位数（最大堆、最小堆）`](./lcof/MedianFinder/MedianFinder.go)
 
 ### [`maxSubArray 剑指 Offer 42. 连续子数组的最大和（动态规划）`](./lcof/maxSubArray/maxSubArray.go)
+
+### [`countDigitOne 剑指 Offer 43. 1～n 整数中 1 出现的次数(动态规划)`](./lcof/countDigitOne/countDigitOne.go)
