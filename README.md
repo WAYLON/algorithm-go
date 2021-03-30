@@ -222,4 +222,6 @@
 
 ### [`maxSubArray 剑指 Offer 42. 连续子数组的最大和（动态规划）`](./lcof/maxSubArray/maxSubArray.go)
 
-### [`countDigitOne 剑指 Offer 43. 1～n 整数中 1 出现的次数(动态规划)`](./lcof/countDigitOne/countDigitOne.go)
+### [`countDigitOne 剑指 Offer 43. 1～n 整数中 1 出现的次数(数学)`](./lcof/countDigitOne/countDigitOne.go)
+
+### [`findNthDigit 剑指 Offer 44. 数字序列中某一位的数字(数学)`](./lcof/findNthDigit/findNthDigit.go)
