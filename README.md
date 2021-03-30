@@ -135,6 +135,8 @@
 
 ### [`reverseBits 190. 颠倒二进制位（分治算法、逐位分离）`](./leetcode/reverseBits/reverseBits.go)
 
+### [`searchMatrix 74. 搜索二维矩阵`](./leetcode/searchMatrix/searchMatrix.go)
+
 
 
 ##  程序员面试金典（第 6 版）
