@@ -139,6 +139,7 @@
 
 ### [`subsets 78. 子集(回溯)`](./leetcode/subsets/subsets.go)
 
+### [`subsetsWithDup 90. 子集 II（回溯+剪枝）`](./leetcode/subsetsWithDup/subsetsWithDup.go)
 
 
 ##  程序员面试金典（第 6 版）
