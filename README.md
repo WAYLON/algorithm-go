@@ -141,6 +141,8 @@
 
 ### [`subsetsWithDup 90. 子集 II（回溯+剪枝）`](./leetcode/subsetsWithDup/subsetsWithDup.go)
 
+### [`combinationSum 39. 组合总和（回溯+剪枝）`](./leetcode/combinationSum/combinationSum.go)
+
 
 ##  程序员面试金典（第 6 版）
 
