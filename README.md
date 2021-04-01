@@ -143,6 +143,8 @@
 
 ### [`combinationSum 39. 组合总和（回溯+剪枝）`](./leetcode/combinationSum/combinationSum.go)
 
+### [`combinationSum2 40. 组合总和 II（回溯+剪枝）`](./leetcode/combinationSum2/combinationSum2.go)
+
 
 ##  程序员面试金典（第 6 版）
 
