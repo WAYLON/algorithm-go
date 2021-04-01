@@ -99,6 +99,8 @@
 
 ### `calculate2 227. 基本计算器 II (栈应用)`
 
+### [`clumsy 1006. 笨阶乘 (栈应用)`](./leetcode/clumsy/clumsy.go)
+
 ### `isValidSerialization 331. 验证二叉树的前序序列化 (栈应用)`
 
 ### `MyHashSet 705. 设计哈希集合`
