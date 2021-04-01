@@ -76,7 +76,7 @@ class Solution {
             if (!used[i]) {
                 temp.add(nums[i]);
                 used[i] = true;
-                dfs(res, len, depth + 1nums, temp, used);
+                dfs(res, len, depth + 1, nums, temp, used);
                 temp.remove(temp.size() - 1);
                 used[i] = false;
             }

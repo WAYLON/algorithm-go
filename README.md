@@ -147,6 +147,8 @@
 
 ### [`permute 46. 全排列（回溯+剪枝）`](./leetcode/permute/permute.go)
 
+### [`permuteUnique 47. 全排列 II（回溯+剪枝）`](./leetcode/permuteUnique/permuteUnique.go)
+
 
 ##  程序员面试金典（第 6 版）
 
