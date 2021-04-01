@@ -145,6 +145,8 @@
 
 ### [`combinationSum2 40. 组合总和 II（回溯+剪枝）`](./leetcode/combinationSum2/combinationSum2.go)
 
+### [`permute 46. 全排列（回溯+剪枝）`](./leetcode/permute/permute.go)
+
 
 ##  程序员面试金典（第 6 版）
 
