@@ -151,6 +151,8 @@
 
 ### [`permuteUnique 47. 全排列 II（回溯+剪枝）`](./leetcode/permuteUnique/permuteUnique.go)
 
+### [`longestCommonSubsequence 1143. 最长公共子序列（动态规划）`](./leetcode/longestCommonSubsequence/longestCommonSubsequence.go)
+
 
 ##  程序员面试金典（第 6 版）
 
