@@ -153,6 +153,8 @@
 
 ### [`longestCommonSubsequence 1143. 最长公共子序列（动态规划）`](./leetcode/longestCommonSubsequence/longestCommonSubsequence.go)
 
+### [`numRabbits 781. 森林中的兔子（贪心算法）`](./leetcode/numRabbits/numRabbits.go)
+
 
 ##  程序员面试金典（第 6 版）
 
