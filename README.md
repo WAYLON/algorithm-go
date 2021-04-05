@@ -155,6 +155,9 @@
 
 ### [`numRabbits 781. 森林中的兔子（贪心算法）`](./leetcode/numRabbits/numRabbits.go)
 
+### [`merge 88. 合并两个有序数组（双指针）`](./leetcode/merge/merge.go)
+
+
 
 ##  程序员面试金典（第 6 版）
 
