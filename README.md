@@ -159,6 +159,8 @@
 
 ### [`removeDuplicates1 26. 删除有序数组中的重复项（双指针）`](./leetcode/removeDuplicates1/removeDuplicates1.go)
 
+### [`removeElement 27. 移除元素（双指针、交换移除）`](./leetcode/removeElement/removeElement.go)
+
 ### [`removeDuplicates2 80. 删除有序数组中的重复项 II（双指针）`](./leetcode/removeDuplicates2/removeDuplicates2.go)
 
 ### [`purchasePlans LCP 28. 采购方案（双指针）`](./leetcode/purchasePlans/purchasePlans.go)
