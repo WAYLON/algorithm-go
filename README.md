@@ -157,6 +157,8 @@
 
 ### [`merge 88. 合并两个有序数组（双指针）`](./leetcode/merge/merge.go)
 
+### [`removeDuplicates1 26. 删除有序数组中的重复项（双指针）`](./leetcode/removeDuplicates1/removeDuplicates1.go)
+
 ### [`removeDuplicates2 80. 删除有序数组中的重复项 II（双指针）`](./leetcode/removeDuplicates2/removeDuplicates2.go)
 
 
