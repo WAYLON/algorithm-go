@@ -165,6 +165,8 @@
 
 ### [`purchasePlans LCP 28. 采购方案（双指针）`](./leetcode/purchasePlans/purchasePlans.go)
 
+### [`search1 33. 搜索旋转排序数组（二分法）`](./leetcode/search1/search1.go)
+
 
 
 ##  程序员面试金典（第 6 版）
