@@ -179,6 +179,8 @@
 
 ### `replaceSpaces 面试题 01.03. URL化`
 
+### [`search 面试题 10.03. 搜索旋转数组（二分法）`](lcci/search/search.go)
+
 ### `massage 面试题 17.16. 按摩师`
 
 ### [`trap 面试题 17.21. 直方图的水量（单调栈、面积差值、双指针）`](lcci/trap/trap.go)
