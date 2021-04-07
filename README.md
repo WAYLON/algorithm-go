@@ -167,6 +167,8 @@
 
 ### [`search1 33. 搜索旋转排序数组（二分法）`](./leetcode/search1/search1.go)
 
+### [`search2 81. 搜索旋转排序数组 II（二分法）`](./leetcode/search2/search2.go)
+
 
 
 ##  程序员面试金典（第 6 版）
