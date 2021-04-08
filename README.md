@@ -169,6 +169,8 @@
 
 ### [`search2 81. 搜索旋转排序数组 II（二分法）`](./leetcode/search2/search2.go)
 
+### [`findMin 153. 寻找旋转排序数组中的最小值（二分法）`](./leetcode/findMin/findMin.go)
+
 
 
 ##  程序员面试金典（第 6 版）
