@@ -41,6 +41,25 @@ func findMin(nums []int) int {
 	return nums[left]
 }
 
+// 恢复二段性
+func findMin2(nums []int) int {
+	left := 0
+	right := len(nums) - 1
+
+	for left < right && nums[0] == nums[right] {
+		right--
+	}
+	for left < right {
+		mid := (left + right) >> 1
+		if nums[mid] > nums[right] {
+			left = mid + 1
+		} else {
+			right = mid
+		}
+	}
+	return nums[left]
+}
+
 /**
 JAVA版
 class Solution {
