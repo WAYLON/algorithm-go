@@ -171,6 +171,8 @@
 
 ### [`findMin 153. 寻找旋转排序数组中的最小值（二分法）`](./leetcode/findMin/findMin.go)
 
+### [`findMin2 154. 寻找旋转排序数组中的最小值 II（二分法）`](./leetcode/findMin2/findMin2.go)
+
 ### [`searchRange 34. 在排序数组中查找元素的第一个和最后一个位置（二分法）`](./leetcode/searchRange/searchRange.go)
 
 
