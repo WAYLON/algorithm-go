@@ -28,6 +28,10 @@
 
 ### `stack 栈`
 
+### [`quickPower 快速幂模板`](./dataStructure/quickPower/quickPower.go)
+
+### [`quickMul 快速乘模板`](./dataStructure/quickMul/quickMul.go)
+
 
 ## leetCode
 
