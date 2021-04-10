@@ -173,6 +173,8 @@
 
 ### [`searchRange 34. 在排序数组中查找元素的第一个和最后一个位置（二分法）`](./leetcode/searchRange/searchRange.go)
 
+### [`isUgly 263. 丑数（朴素解法）`](./leetcode/isUgly/isUgly.go)
+
 
 
 ##  程序员面试金典（第 6 版）
