@@ -175,6 +175,8 @@
 
 ### [`isUgly 263. 丑数（朴素解法）`](./leetcode/isUgly/isUgly.go)
 
+### [`nthUglyNumber 264. 丑数 II（三指针）`](./leetcode/nthUglyNumber/nthUglyNumber.go)
+
 
 
 ##  程序员面试金典（第 6 版）
