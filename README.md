@@ -28,6 +28,10 @@
 
 ### `stack 栈`
 
+### [`quickPower 快速幂模板`](./dataStructure/quickPower/quickPower.go)
+
+### [`quickMul 快速乘模板`](./dataStructure/quickMul/quickMul.go)
+
 
 ## leetCode
 
@@ -171,7 +175,11 @@
 
 ### [`findMin 153. 寻找旋转排序数组中的最小值（二分法）`](./leetcode/findMin/findMin.go)
 
+### [`findMin2 154. 寻找旋转排序数组中的最小值 II（二分法）`](./leetcode/findMin2/findMin2.go)
+
 ### [`searchRange 34. 在排序数组中查找元素的第一个和最后一个位置（二分法）`](./leetcode/searchRange/searchRange.go)
+
+### [`divide 29. 两数相除（二分法）`](./leetcode/divide/divide.go)
 
 ### [`isUgly 263. 丑数（朴素解法）`](./leetcode/isUgly/isUgly.go)
 
