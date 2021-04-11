@@ -185,6 +185,7 @@
 
 ### [`nthUglyNumber 264. 丑数 II（三指针）`](./leetcode/nthUglyNumber/nthUglyNumber.go)
 
+### [`storeWater LCP 33. 蓄水（模拟法）`](./leetcode/storeWater/storeWater.go)
 
 
 ##  程序员面试金典（第 6 版）
