@@ -277,3 +277,5 @@
 ### [`countDigitOne 剑指 Offer 43. 1～n 整数中 1 出现的次数(数学)`](./lcof/countDigitOne/countDigitOne.go)
 
 ### [`findNthDigit 剑指 Offer 44. 数字序列中某一位的数字(数学)`](./lcof/findNthDigit/findNthDigit.go)
+
+### [`nthUglyNumber 剑指 Offer 49. 丑数(三指针)`](./lcof/nthUglyNumber/nthUglyNumber.go)
