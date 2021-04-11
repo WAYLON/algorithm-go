@@ -187,6 +187,8 @@
 
 ### [`storeWater LCP 33. 蓄水（模拟法）`](./leetcode/storeWater/storeWater.go)
 
+### [`findTheWinner 5727. 找出游戏的获胜者（约瑟夫环、模拟、公式）`](./leetcode/findTheWinner/findTheWinner.go)
+
 
 ##  程序员面试金典（第 6 版）
 
