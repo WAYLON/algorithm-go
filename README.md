@@ -189,6 +189,8 @@
 
 ### [`findTheWinner 5727. 找出游戏的获胜者（约瑟夫环、模拟、公式）`](./leetcode/findTheWinner/findTheWinner.go)
 
+### [`minSideJumps 5728. 最少侧跳次数（动态规划）`](./leetcode/minSideJumps/minSideJumps.go)
+
 
 ##  程序员面试金典（第 6 版）
 
