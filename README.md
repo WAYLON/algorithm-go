@@ -285,4 +285,6 @@
 
 ### [`findNthDigit 剑指 Offer 44. 数字序列中某一位的数字(数学)`](./lcof/findNthDigit/findNthDigit.go)
 
+### [`minNumber 剑指 Offer 45. 把数组排成最小的数(自定义排序)`](./lcof/minNumber/minNumber.go)
+
 ### [`nthUglyNumber 剑指 Offer 49. 丑数(三指针)`](./lcof/nthUglyNumber/nthUglyNumber.go)
