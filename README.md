@@ -139,6 +139,8 @@
 
 ### [`inorderTraversal 94. 二叉树的中序遍历（递归、栈迭代、莫里斯）`](./leetcode/inorderTraversal/inorderTraversal.go)
 
+### [`minDiffInBST 783. 二叉搜索树节点最小距离（递归、栈迭代、莫里斯）`](./leetcode/minDiffInBST/minDiffInBST.go)
+
 ### [`reverseBits 190. 颠倒二进制位（分治算法、逐位分离）`](./leetcode/reverseBits/reverseBits.go)
 
 ### [`searchMatrix 74. 搜索二维矩阵`](./leetcode/searchMatrix/searchMatrix.go)
