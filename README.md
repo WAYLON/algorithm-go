@@ -133,6 +133,8 @@
 
 ### [`hasCycle 141. 环形链表(快慢指针,自删,字典,反转链表再比较)`](./leetcode/hasCycle/hasCycle.go)
 
+### [`Trie 208. 实现 Trie (前缀树)`](./leetcode/Trie/Trie.go)
+
 ### [`rotateRight 61. 旋转链表（闭合成环）`](./leetcode/rotateRight/rotateRight.go)
 
 ### [`BSTIterator 173. 二叉搜索树迭代器（中序遍历,栈）`](./leetcode/BSTIterator/BSTIterator.go)
