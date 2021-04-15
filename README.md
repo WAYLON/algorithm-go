@@ -299,4 +299,6 @@
 
 ### [`minNumber 剑指 Offer 45. 把数组排成最小的数(自定义排序)`](./lcof/minNumber/minNumber.go)
 
+### [`translateNum 剑指 Offer 46. 把数字翻译成字符串(动态规划)`](./lcof/translateNum/translateNum.go)
+
 ### [`nthUglyNumber 剑指 Offer 49. 丑数(三指针)`](./lcof/nthUglyNumber/nthUglyNumber.go)
