@@ -161,6 +161,8 @@
 
 ### [`longestCommonSubsequence 1143. 最长公共子序列（动态规划）`](./leetcode/longestCommonSubsequence/longestCommonSubsequence.go)
 
+### [`rob 198. 打家劫舍（动态规划）`](./leetcode/rob/rob.go)
+
 ### [`numRabbits 781. 森林中的兔子（贪心算法）`](./leetcode/numRabbits/numRabbits.go)
 
 ### [`merge 88. 合并两个有序数组（双指针）`](./leetcode/merge/merge.go)
