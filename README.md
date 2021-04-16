@@ -303,4 +303,6 @@
 
 ### [`translateNum 剑指 Offer 46. 把数字翻译成字符串(动态规划)`](./lcof/translateNum/translateNum.go)
 
+### [`maxValue 剑指 Offer 47. 礼物的最大价值(动态规划)`](./lcof/maxValue/maxValue.go)
+
 ### [`nthUglyNumber 剑指 Offer 49. 丑数(三指针)`](./lcof/nthUglyNumber/nthUglyNumber.go)
