@@ -165,6 +165,8 @@
 
 ### [`rob 213. 打家劫舍 II（动态规划）`](./leetcode/rob1/rob1.go)
 
+### [`isScramble 87. 扰乱字符串（动态规划 3维）`](./leetcode/isScramble/isScramble.go)
+
 ### [`numRabbits 781. 森林中的兔子（贪心算法）`](./leetcode/numRabbits/numRabbits.go)
 
 ### [`merge 88. 合并两个有序数组（双指针）`](./leetcode/merge/merge.go)
