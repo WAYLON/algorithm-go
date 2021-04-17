@@ -205,6 +205,8 @@
 
 ### [`containsDuplicate 217. 存在重复元素（排序）`](./leetcode/containsDuplicate/containsDuplicate.go)
 
+### [`containsNearbyDuplicate 219. 存在重复元素 II（滑动窗口、维护一个大小为k的set）`](./leetcode/containsNearbyDuplicate/containsNearbyDuplicate.go)
+
 
 ##  程序员面试金典（第 6 版）
 
