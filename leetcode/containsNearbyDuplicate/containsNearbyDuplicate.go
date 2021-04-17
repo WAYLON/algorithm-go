@@ -37,7 +37,7 @@ func containsNearbyDuplicate(nums []int, k int) bool {
 func containsNearbyDuplicate1(nums []int, k int) bool {
 	hash := make(map[int]int)
 	for i, x := range nums {
-		if j, ok := hash[x]; ok && i-j < k {
+		if j, ok := hash[x]; ok && i-j <= k {
 			return true
 		}
 		hash[x] = i
