@@ -203,6 +203,8 @@
 
 ### [`largestNumber 179. 最大数（排序）`](./leetcode/largestNumber/largestNumber.go)
 
+### [`containsDuplicate 217. 存在重复元素（排序）`](./leetcode/containsDuplicate/containsDuplicate.go)
+
 
 ##  程序员面试金典（第 6 版）
 
