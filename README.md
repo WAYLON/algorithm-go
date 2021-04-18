@@ -209,6 +209,8 @@
 
 ### [`containsNearbyAlmostDuplicate 220. 存在重复元素 III（滑动窗口 & 二分,桶排序）`](./leetcode/containsNearbyAlmostDuplicate/containsNearbyAlmostDuplicate.go)
 
+### [`getMaximumXor 5719. 每个查询的最大异或值(异或)`](./leetcode/getMaximumXor/getMaximumXor.go)
+
 
 ##  程序员面试金典（第 6 版）
 
