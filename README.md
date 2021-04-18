@@ -211,6 +211,8 @@
 
 ### [`getMaximumXor 5719. 每个查询的最大异或值(异或)`](./leetcode/getMaximumXor/getMaximumXor.go)
 
+### [`getXORSum 5737. 所有数对按位与结果的异或和(异或)`](./leetcode/getXORSum/getXORSum.go)
+
 
 ##  程序员面试金典（第 6 版）
 
