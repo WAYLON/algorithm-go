@@ -78,6 +78,20 @@ func removeElement2(nums []int, val int) int {
 }
 
 /**
+方法3 通用解法
+*/
+func removeElement3(nums []int, val int) int {
+	idx := 0
+	for _, x := range nums {
+		if x != val {
+			nums[idx] = x
+			idx++
+		}
+	}
+	return idx
+}
+
+/**
 java版
 //双指针
 class Solution {
