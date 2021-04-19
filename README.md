@@ -213,6 +213,8 @@
 
 ### [`getXORSum 5737. 所有数对按位与结果的异或和(异或)`](./leetcode/getXORSum/getXORSum.go)
 
+### [`getOrder 5736. 单线程 CPU（优先队列）`](./leetcode/getOrder/getOrder.go)
+
 
 ##  程序员面试金典（第 6 版）
 
