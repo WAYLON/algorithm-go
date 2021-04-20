@@ -215,6 +215,8 @@
 
 ### [`getOrder 5736. 单线程 CPU（优先队列）`](./leetcode/getOrder/getOrder.go)
 
+### [`strStr 28. 实现 strStr()（朴素解法、KMP）`](./leetcode/strStr/strStr.go)
+
 
 ##  程序员面试金典（第 6 版）
 
