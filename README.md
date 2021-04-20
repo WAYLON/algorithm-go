@@ -319,4 +319,6 @@
 
 ### [`maxValue 剑指 Offer 47. 礼物的最大价值(动态规划)`](./lcof/maxValue/maxValue.go)
 
+### [`lengthOfLongestSubstring 剑指 Offer 48. 最长不含重复字符的子字符串(滑动窗口)`](./lcof/lengthOfLongestSubstring/lengthOfLongestSubstring.go)
+
 ### [`nthUglyNumber 剑指 Offer 49. 丑数(三指针)`](./lcof/nthUglyNumber/nthUglyNumber.go)
