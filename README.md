@@ -324,3 +324,5 @@
 ### [`lengthOfLongestSubstring 剑指 Offer 48. 最长不含重复字符的子字符串(滑动窗口)`](./lcof/lengthOfLongestSubstring/lengthOfLongestSubstring.go)
 
 ### [`nthUglyNumber 剑指 Offer 49. 丑数(三指针)`](./lcof/nthUglyNumber/nthUglyNumber.go)
+
+### [`firstUniqChar 剑指 Offer 50. 第一个只出现一次的字符(hash表、有序hash表)`](./lcof/firstUniqChar/firstUniqChar.go)
