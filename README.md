@@ -85,6 +85,8 @@
 
 ### `NumMatrix 304. 二维区域和检索 - 矩阵不可变`
 
+### [`maxSumSubmatrix 363. 矩形区域不超过 K 的最大数值和(朴素解法)`](./leetcode/maxSumSubmatrix/maxSumSubmatrix.go)
+
 ### `NumMatrix 338. 比特位计数`
 
 ### `MyQueue 232. 用栈实现队列`
