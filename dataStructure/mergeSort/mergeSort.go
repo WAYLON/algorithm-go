@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 /**
 归并排序 时间复杂度O(nlogn)  空间复杂度 O(n)
 */
@@ -8,7 +10,7 @@ func mergeSort(a []int, low int, high int) {
 	if low < high {
 		//左面
 		mergeSort(a, low, mid)
-		mergeSort(a, low, high)
+		mergeSort(a, mid+1, high)
 		//左右归并
 		merge(a, low, mid, high)
 	}
@@ -52,7 +54,9 @@ func merge(a []int, low int, mid int, high int) {
 }
 
 func main() {
-
+	a := []int{1, 2, 3421421421, 47, 3, 52, 643, 7457}
+	mergeSort(a, 0, 7)
+	fmt.Println(a)
 }
 
 /**
