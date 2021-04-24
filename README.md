@@ -332,3 +332,5 @@
 ### [`nthUglyNumber 剑指 Offer 49. 丑数(三指针)`](./lcof/nthUglyNumber/nthUglyNumber.go)
 
 ### [`firstUniqChar 剑指 Offer 50. 第一个只出现一次的字符(hash表、有序hash表)`](./lcof/firstUniqChar/firstUniqChar.go)
+
+### [`reversePairs 剑指 Offer 51. 数组中的逆序对(分治算法、归并排序)`](./lcof/reversePairs/reversePairs.go)
