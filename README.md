@@ -191,6 +191,8 @@
 
 ### [`maxFrequency 5739. 最高频元素的频数（双指针、滑动窗口）`](./leetcode/maxFrequency/maxFrequency.go)
 
+### [`longestBeautifulSubstring 5740. 所有元音按顺序排布的最长子字符串（滑动窗口）`](./leetcode/longestBeautifulSubstring/longestBeautifulSubstring.go)
+
 ### [`search1 33. 搜索旋转排序数组（二分法）`](./leetcode/search1/search1.go)
 
 ### [`search2 81. 搜索旋转排序数组 II（二分法）`](./leetcode/search2/search2.go)
