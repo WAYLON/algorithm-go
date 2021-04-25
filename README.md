@@ -340,3 +340,5 @@
 ### [`firstUniqChar 剑指 Offer 50. 第一个只出现一次的字符(hash表、有序hash表)`](./lcof/firstUniqChar/firstUniqChar.go)
 
 ### [`reversePairs 剑指 Offer 51. 数组中的逆序对(分治算法、归并排序)`](./lcof/reversePairs/reversePairs.go)
+
+### [`getIntersectionNode 剑指 Offer 52. 两个链表的第一个公共节点(链表)`](./lcof/getIntersectionNode/getIntersectionNode.go)
