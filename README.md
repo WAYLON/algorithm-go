@@ -342,3 +342,5 @@
 ### [`reversePairs 剑指 Offer 51. 数组中的逆序对(分治算法、归并排序)`](./lcof/reversePairs/reversePairs.go)
 
 ### [`getIntersectionNode 剑指 Offer 52. 两个链表的第一个公共节点(链表)`](./lcof/getIntersectionNode/getIntersectionNode.go)
+
+### [`search 剑指 Offer 53 - I. 在排序数组中查找数字 I(俩次二分)`](./lcof/search/search.go)
