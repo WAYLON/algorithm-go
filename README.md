@@ -189,6 +189,8 @@
 
 ### [`purchasePlans LCP 28. 采购方案（双指针）`](./leetcode/purchasePlans/purchasePlans.go)
 
+### [`maxFrequency 5739. 最高频元素的频数（双指针、滑动窗口）`](./leetcode/maxFrequency/maxFrequency.go)
+
 ### [`search1 33. 搜索旋转排序数组（二分法）`](./leetcode/search1/search1.go)
 
 ### [`search2 81. 搜索旋转排序数组 II（二分法）`](./leetcode/search2/search2.go)
