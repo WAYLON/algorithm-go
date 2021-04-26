@@ -348,3 +348,5 @@
 ### [`search 剑指 Offer 53 - I. 在排序数组中查找数字 I(俩次二分)`](./lcof/search/search.go)
 
 ### [`missingNumber 剑指 Offer 53 - II. 0～n-1中缺失的数字(二分法)`](./lcof/missingNumber/missingNumber.go)
+
+### [`kthLargest 剑指 Offer 54. 二叉搜索树的第k大节点(中序遍历+提前返回)`](./lcof/kthLargest/kthLargest.go)
