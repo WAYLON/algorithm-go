@@ -205,6 +205,8 @@
 
 ### [`divide 29. 两数相除（二分法）`](./leetcode/divide/divide.go)
 
+### [`shipWithinDays 1011. 在 D 天内送达包裹的能力（二分法）`](./leetcode/shipWithinDays/shipWithinDays.go)
+
 ### [`isUgly 263. 丑数（朴素解法）`](./leetcode/isUgly/isUgly.go)
 
 ### [`nthUglyNumber 264. 丑数 II（三指针）`](./leetcode/nthUglyNumber/nthUglyNumber.go)
