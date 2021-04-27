@@ -352,3 +352,5 @@
 ### [`missingNumber 剑指 Offer 53 - II. 0～n-1中缺失的数字(二分法)`](./lcof/missingNumber/missingNumber.go)
 
 ### [`kthLargest 剑指 Offer 54. 二叉搜索树的第k大节点(中序遍历+提前返回)`](./lcof/kthLargest/kthLargest.go)
+
+### [`maxDepth 剑指 Offer 55 - I. 二叉树的深度(层序遍历、后序遍历)`](./lcof/maxDepth/maxDepth.go)
