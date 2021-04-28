@@ -235,6 +235,8 @@
 
 ### [`strStr 28. 实现 strStr()（朴素解法、KMP）`](./leetcode/strStr/strStr.go)
 
+### [`judgeSquareSum 633. 平方数之和（数学）`](./leetcode/judgeSquareSum/judgeSquareSum.go)
+
 
 ##  程序员面试金典（第 6 版）
 
