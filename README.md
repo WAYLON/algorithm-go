@@ -233,6 +233,8 @@
 
 ### [`getXORSum 5737. 所有数对按位与结果的异或和(异或)`](./leetcode/getXORSum/getXORSum.go)
 
+### [`decode 1720. 解码异或后的数组(异或)`](./leetcode/decode/decode.go)
+
 ### [`getOrder 5736. 单线程 CPU（优先队列）`](./leetcode/getOrder/getOrder.go)
 
 ### [`strStr 28. 实现 strStr()（朴素解法、KMP）`](./leetcode/strStr/strStr.go)
