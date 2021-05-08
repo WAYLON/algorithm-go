@@ -364,3 +364,5 @@
 ### [`kthLargest 剑指 Offer 54. 二叉搜索树的第k大节点(中序遍历+提前返回)`](./lcof/kthLargest/kthLargest.go)
 
 ### [`maxDepth 剑指 Offer 55 - I. 二叉树的深度(层序遍历、后序遍历)`](./lcof/maxDepth/maxDepth.go)
+
+### [`singleNumbers 剑指 Offer 56 - I. 数组中数字出现的次数(异或)`](./lcof/singleNumbers/singleNumbers.go)
