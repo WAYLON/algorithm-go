@@ -365,4 +365,6 @@
 
 ### [`maxDepth 剑指 Offer 55 - I. 二叉树的深度(层序遍历、后序遍历)`](./lcof/maxDepth/maxDepth.go)
 
+### [`isBalanced 剑指 Offer 55 - II. 平衡二叉树(深度优先搜索)`](./lcof/isBalanced/isBalanced.go)
+
 ### [`singleNumbers 剑指 Offer 56 - I. 数组中数字出现的次数(异或)`](./lcof/singleNumbers/singleNumbers.go)
