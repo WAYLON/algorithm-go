@@ -165,6 +165,8 @@
 
 ### [`permuteUnique 47. 全排列 II（回溯+剪枝）`](./leetcode/permuteUnique/permuteUnique.go)
 
+### [`minimumTimeRequired 1723. 完成所有工作的最短时间（回溯、递归）`](./leetcode/minimumTimeRequired/minimumTimeRequired.go)
+
 ### [`longestCommonSubsequence 1143. 最长公共子序列（动态规划）`](./leetcode/longestCommonSubsequence/longestCommonSubsequence.go)
 
 ### [`rob 198. 打家劫舍（动态规划）`](./leetcode/rob/rob.go)
