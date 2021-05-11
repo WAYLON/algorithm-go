@@ -241,6 +241,8 @@
 
 ### [`xorOperation 1486. 数组异或操作(异或、数学)`](./leetcode/xorOperation/xorOperation.go)
 
+### [`decode1 1734. 解码异或后的排列(异或)`](./leetcode/decode1/decode1.go)
+
 ### [`getOrder 5736. 单线程 CPU（优先队列）`](./leetcode/getOrder/getOrder.go)
 
 ### [`strStr 28. 实现 strStr()（朴素解法、KMP）`](./leetcode/strStr/strStr.go)
