@@ -372,3 +372,5 @@
 ### [`isBalanced 剑指 Offer 55 - II. 平衡二叉树(深度优先搜索)`](./lcof/isBalanced/isBalanced.go)
 
 ### [`singleNumbers 剑指 Offer 56 - I. 数组中数字出现的次数(异或)`](./lcof/singleNumbers/singleNumbers.go)
+
+### [`singleNumber 剑指 Offer 56 - II. 数组中数字出现的次数 II(位运算)`](./lcof/singleNumber/singleNumber.go)
