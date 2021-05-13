@@ -245,6 +245,8 @@
 
 ### [`decode1 1734. 解码异或后的排列(异或)`](./leetcode/decode1/decode1.go)
 
+### [`xorQueries 1310. 子数组异或查询(异或、前缀和、树状数组)`](./leetcode/xorQueries/xorQueries.go)
+
 ### [`getOrder 5736. 单线程 CPU（优先队列）`](./leetcode/getOrder/getOrder.go)
 
 ### [`strStr 28. 实现 strStr()（朴素解法、KMP）`](./leetcode/strStr/strStr.go)
@@ -374,3 +376,5 @@
 ### [`isBalanced 剑指 Offer 55 - II. 平衡二叉树(深度优先搜索)`](./lcof/isBalanced/isBalanced.go)
 
 ### [`singleNumbers 剑指 Offer 56 - I. 数组中数字出现的次数(异或)`](./lcof/singleNumbers/singleNumbers.go)
+
+### [`singleNumber 剑指 Offer 56 - II. 数组中数字出现的次数 II(位运算)`](./lcof/singleNumber/singleNumber.go)
