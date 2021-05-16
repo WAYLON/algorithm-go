@@ -380,3 +380,5 @@
 ### [`singleNumber 剑指 Offer 56 - II. 数组中数字出现的次数 II(位运算)`](./lcof/singleNumber/singleNumber.go)
 
 ### [`twoSum 剑指 Offer 57. 和为s的两个数字(双指针)`](./lcof/twoSum/twoSum.go)
+
+### [`findContinuousSequence 剑指 Offer 57 - II. 和为s的连续正数序列(双指针)`](./lcof/findContinuousSequence/findContinuousSequence.go)
