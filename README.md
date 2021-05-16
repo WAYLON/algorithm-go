@@ -378,3 +378,5 @@
 ### [`singleNumbers 剑指 Offer 56 - I. 数组中数字出现的次数(异或)`](./lcof/singleNumbers/singleNumbers.go)
 
 ### [`singleNumber 剑指 Offer 56 - II. 数组中数字出现的次数 II(位运算)`](./lcof/singleNumber/singleNumber.go)
+
+### [`twoSum 剑指 Offer 57. 和为s的两个数字(双指针)`](./lcof/twoSum/twoSum.go)
