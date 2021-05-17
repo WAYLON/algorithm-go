@@ -149,6 +149,8 @@
 
 ### [`minDiffInBST 783. 二叉搜索树节点最小距离（递归、栈迭代、莫里斯）`](./leetcode/minDiffInBST/minDiffInBST.go)
 
+### [`isCousins 993. 二叉树的堂兄弟节点（递归、栈迭代）`](./leetcode/isCousins/isCousins.go)
+
 ### [`leafSimilar 872. 叶子相似的树（递归、栈迭代）`](./leetcode/leafSimilar/leafSimilar.go)
 
 ### [`reverseBits 190. 颠倒二进制位（分治算法、逐位分离）`](./leetcode/reverseBits/reverseBits.go)
