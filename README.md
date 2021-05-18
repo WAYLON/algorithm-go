@@ -249,6 +249,8 @@
 
 ### [`xorQueries 1310. 子数组异或查询(异或、前缀和、树状数组)`](./leetcode/xorQueries/xorQueries.go)
 
+### [`countTriplets 1442. 形成两个异或相等数组的三元组数目(异或)`](./leetcode/countTriplets/countTriplets.go)
+
 ### [`getOrder 5736. 单线程 CPU（优先队列）`](./leetcode/getOrder/getOrder.go)
 
 ### [`strStr 28. 实现 strStr()（朴素解法、KMP）`](./leetcode/strStr/strStr.go)
