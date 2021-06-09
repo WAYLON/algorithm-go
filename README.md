@@ -389,4 +389,6 @@
 
 ### [`reverseWords 剑指 Offer 58 - I. 翻转单词顺序(双指针)`](./lcof/reverseWords/reverseWords.go)
 
-### [`剑指 Offer 58 - II. 左旋转字符串(api)`](./lcof/reverseLeftWords/reverseLeftWords.go)
+### [`reverseLeftWords 剑指 Offer 58 - II. 左旋转字符串(api)`](./lcof/reverseLeftWords/reverseLeftWords.go)
+
+### [`maxSlidingWindow 剑指 Offer 59 - I. 滑动窗口的最大值(单调队列)`](./lcof/maxSlidingWindow/maxSlidingWindow.go)
