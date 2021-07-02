@@ -392,3 +392,5 @@
 ### [`reverseLeftWords 剑指 Offer 58 - II. 左旋转字符串(api)`](./lcof/reverseLeftWords/reverseLeftWords.go)
 
 ### [`maxSlidingWindow 剑指 Offer 59 - I. 滑动窗口的最大值(单调队列)`](./lcof/maxSlidingWindow/maxSlidingWindow.go)
+
+### [`MaxQueue 剑指 Offer 59 - II. 队列的最大值(单调双向队列)`](./lcof/MaxQueue/MaxQueue.go)
