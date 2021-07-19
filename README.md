@@ -394,3 +394,5 @@
 ### [`maxSlidingWindow 剑指 Offer 59 - I. 滑动窗口的最大值(单调队列)`](./lcof/maxSlidingWindow/maxSlidingWindow.go)
 
 ### [`MaxQueue 剑指 Offer 59 - II. 队列的最大值(单调双向队列)`](./lcof/MaxQueue/MaxQueue.go)
+
+### [`dicesProbability 剑指 Offer 60. n个骰子的点数(动态规划)`](./lcof/dicesProbability/dicesProbability.go)
