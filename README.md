@@ -396,3 +396,5 @@
 ### [`MaxQueue 剑指 Offer 59 - II. 队列的最大值(单调双向队列)`](./lcof/MaxQueue/MaxQueue.go)
 
 ### [`dicesProbability 剑指 Offer 60. n个骰子的点数(动态规划)`](./lcof/dicesProbability/dicesProbability.go)
+
+### [`isStraight 剑指 Offer 61. 扑克牌中的顺子(集合 Set / 排序)`](./lcof/isStraight/isStraight.go)
