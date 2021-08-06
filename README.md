@@ -404,3 +404,5 @@
 ### [`maxProfit 剑指 Offer 63. 股票的最大利润(动态规划)`](./lcof/maxProfit/maxProfit.go)
 
 ### [`sumNums 剑指 Offer 64. 求1+2+…+n(递归、数学公式)`](./lcof/sumNums/sumNums.go)
+
+### [`add 剑指 Offer 65. 不用加减乘除做加法(位运算)`](./lcof/add/add.go)
