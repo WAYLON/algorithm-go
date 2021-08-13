@@ -406,3 +406,5 @@
 ### [`sumNums 剑指 Offer 64. 求1+2+…+n(递归、数学公式)`](./lcof/sumNums/sumNums.go)
 
 ### [`add 剑指 Offer 65. 不用加减乘除做加法(位运算)`](./lcof/add/add.go)
+
+### [`constructArr 剑指 Offer 66. 构建乘积数组(两次dp)`](./lcof/constructArr/constructArr.go)
