@@ -408,3 +408,5 @@
 ### [`add 剑指 Offer 65. 不用加减乘除做加法(位运算)`](./lcof/add/add.go)
 
 ### [`constructArr 剑指 Offer 66. 构建乘积数组(两次dp)`](./lcof/constructArr/constructArr.go)
+
+### [`strToInt 剑指 Offer 67. 把字符串转换成整数(数字越界处理)`](./lcof/strToInt/strToInt.go)
