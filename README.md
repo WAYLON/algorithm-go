@@ -249,6 +249,8 @@
 
 ### [`xorQueries 1310. 子数组异或查询(异或、前缀和、树状数组)`](./leetcode/xorQueries/xorQueries.go)
 
+### [`corpFlightBookings 1109. 航班预订统计(前缀和)`](./leetcode/corpFlightBookings/ç.go)
+
 ### [`countTriplets 1442. 形成两个异或相等数组的三元组数目(异或)`](./leetcode/countTriplets/countTriplets.go)
 
 ### [`getOrder 5736. 单线程 CPU（优先队列）`](./leetcode/getOrder/getOrder.go)
