@@ -6,7 +6,6 @@ package main
 NumArray(int[] nums) 使用数组 nums 初始化对象
 int sumRange(int i, int j) 返回数组 nums 从索引i到j（i≤j）范围内元素的总和，包含i、j两点（也就是 sum(nums[i], nums[i + 1], ... , nums[j])）
 
-
 示例：
 输入：
 ["NumArray", "sumRange", "sumRange", "sumRange"]
@@ -31,24 +30,39 @@ type NumArray struct {
 }
 
 func Constructor(nums []int) NumArray {
-	array := NumArray{sums: make([]int, len(nums)+1)}
-	array.sums[0] = 0
-	for i := 1; i <= len(nums); i++ {
-		array.sums[i] += array.sums[i-1] + nums[i-1]
+	n := len(nums)
+	array := NumArray{sums: make([]int, n+1)}
+	for i := 0; i < n; i++ {
+		array.sums[i+1] = array.sums[i] + nums[i]
 	}
 	return array
 }
 
-func (this *NumArray) SumRange(i int, j int) int {
-	return this.sums[j+1] - this.sums[i]
+func (this *NumArray) SumRange(left int, right int) int {
+	return this.sums[right+1] - this.sums[left]
 }
 
 /**
- * Your NumArray object will be instantiated and called as such:
- * obj := Constructor(nums);
- * param_1 := obj.SumRange(i,j);
- */
+java
 
+class NumArray {
+    private int[] sums;
+
+    public NumArray(int[] nums) {
+        int n = nums.length;
+        sums = new int[n + 1];
+        for (int i = 0; i < nums.length; i++) {
+            sums[i + 1] = sums[i] + nums[i];
+        }
+
+    }
+
+    public int sumRange(int left, int right) {
+        return sums[right + 1] - sums[left];
+    }
+}
+
+*/
 func main() {
 
 }

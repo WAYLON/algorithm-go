@@ -81,8 +81,6 @@
 
 ### `longestPalindromeSubstring 5. 最长回文子串`
 
-### `NumArray 303. 区域和检索 - 数组不可变`
-
 ### `NumMatrix 304. 二维区域和检索 - 矩阵不可变`
 
 ### [`maxSumSubmatrix 363. 矩形区域不超过 K 的最大数值和(朴素解法)`](./leetcode/maxSumSubmatrix/maxSumSubmatrix.go)
@@ -249,7 +247,9 @@
 
 ### [`xorQueries 1310. 子数组异或查询(异或、前缀和、树状数组)`](./leetcode/xorQueries/xorQueries.go)
 
-### [`corpFlightBookings 1109. 航班预订统计(前缀和)`](./leetcode/corpFlightBookings/ç.go)
+### [`corpFlightBookings 1109. 航班预订统计(前缀和)`](./leetcode/corpFlightBookings/corpFlightBookings.go)
+
+### [`NumArray 303. 区域和检索 - 数组不可变(前缀和)`](./leetcode/NumArray/NumArray.go)
 
 ### [`countTriplets 1442. 形成两个异或相等数组的三元组数目(异或)`](./leetcode/countTriplets/countTriplets.go)
 
