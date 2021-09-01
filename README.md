@@ -81,8 +81,6 @@
 
 ### `longestPalindromeSubstring 5. 最长回文子串`
 
-### `NumMatrix 304. 二维区域和检索 - 矩阵不可变`
-
 ### [`maxSumSubmatrix 363. 矩形区域不超过 K 的最大数值和(朴素解法)`](./leetcode/maxSumSubmatrix/maxSumSubmatrix.go)
 
 ### `NumMatrix 338. 比特位计数`
@@ -250,6 +248,8 @@
 ### [`corpFlightBookings 1109. 航班预订统计(前缀和)`](./leetcode/corpFlightBookings/corpFlightBookings.go)
 
 ### [`NumArray 303. 区域和检索 - 数组不可变(前缀和)`](./leetcode/NumArray/NumArray.go)
+
+### [`NumMatrix 304. 二维区域和检索 - 矩阵不可变(前缀和)`](./leetcode/NumMatrix/NumMatrix.go)
 
 ### [`countTriplets 1442. 形成两个异或相等数组的三元组数目(异或)`](./leetcode/countTriplets/countTriplets.go)
 
