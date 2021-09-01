@@ -197,6 +197,8 @@
 
 ### [`purchasePlans LCP 28. 采购方案（双指针）`](./leetcode/purchasePlans/purchasePlans.go)
 
+### [`compareVersion 165. 比较版本号（双指针、字符串模拟）`](./leetcode/compareVersion/compareVersion.go)
+
 ### [`maxFrequency 5739. 最高频元素的频数（双指针、滑动窗口）`](./leetcode/maxFrequency/maxFrequency.go)
 
 ### [`longestBeautifulSubstring 5740. 所有元音按顺序排布的最长子字符串（滑动窗口）`](./leetcode/longestBeautifulSubstring/longestBeautifulSubstring.go)
