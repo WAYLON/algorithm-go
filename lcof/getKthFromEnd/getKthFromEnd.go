@@ -27,6 +27,23 @@ func getKthFromEnd(head *ListNode, k int) *ListNode {
 	return slow
 }
 
+/** java
+class Solution {
+    public ListNode getKthFromEnd(ListNode head, int k) {
+        ListNode slow = head;
+        ListNode fast = head;
+        while (k-- > 0) {
+            fast = fast.next;
+        }
+        while (fast != null){
+            fast = fast.next;
+            slow = slow.next;
+        }
+        return slow;
+    }
+}
+*/
+
 func main() {
 
 }
