@@ -272,6 +272,8 @@
 
 ### [`search 面试题 10.03. 搜索旋转数组（二分法）`](lcci/search/search.go)
 
+### [`smallestK 面试题 17.14. 最小K个数（大小根堆、快速选择、排序）`](lcci/smallestK/smallestK.go)
+
 ### `massage 面试题 17.16. 按摩师`
 
 ### [`trap 面试题 17.21. 直方图的水量（单调栈、面积差值、双指针）`](lcci/trap/trap.go)
