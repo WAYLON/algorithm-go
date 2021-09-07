@@ -269,6 +269,8 @@
 
 ### [`balancedStringSplit 1221. 分割平衡字符串（贪心）`](./leetcode/balancedStringSplit/balancedStringSplit.go)
 
+### [`maxArea 11. 盛最多水的容器（贪心）`](./leetcode/maxArea/maxArea.go)
+
 
 ##  程序员面试金典（第 6 版）
 
