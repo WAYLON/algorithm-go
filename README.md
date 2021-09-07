@@ -271,6 +271,8 @@
 
 ### [`maxArea 11. 盛最多水的容器（贪心）`](./leetcode/maxArea/maxArea.go)
 
+### [`jump 45. 跳跃游戏 II（贪心）`](./leetcode/jump/jump.go)
+
 
 ##  程序员面试金典（第 6 版）
 
