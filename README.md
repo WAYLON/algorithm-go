@@ -267,6 +267,8 @@
 
 ### [`rand10 470. 用 Rand7() 实现 Rand10()（拒绝采样）`](./leetcode/rand10/rand10.go)
 
+### [`balancedStringSplit 1221. 分割平衡字符串（贪心）`](./leetcode/balancedStringSplit/balancedStringSplit.go)
+
 
 ##  程序员面试金典（第 6 版）
 
