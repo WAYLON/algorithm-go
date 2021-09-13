@@ -273,6 +273,8 @@
 
 ### [`jump 45. 跳跃游戏 II（贪心）`](./leetcode/jump/jump.go)
 
+### [`numberOfBoomerangs 447. 回旋镖的数量（哈希表）`](./leetcode/numberOfBoomerangs/numberOfBoomerangs.go)
+
 
 ##  程序员面试金典（第 6 版）
 
