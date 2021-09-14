@@ -277,6 +277,8 @@
 
 ### [`checkValidString 678. 有效的括号字符串（动态规划+模拟）`](./leetcode/checkValidString/checkValidString.go)
 
+### [`chalkReplacer 1894. 找到需要补充粉笔的学生编号（前缀和、模拟）`](./leetcode/chalkReplacer/chalkReplacer.go)
+
 
 ##  程序员面试金典（第 6 版）
 
