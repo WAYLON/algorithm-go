@@ -275,6 +275,8 @@
 
 ### [`numberOfBoomerangs 447. 回旋镖的数量（哈希表）`](./leetcode/numberOfBoomerangs/numberOfBoomerangs.go)
 
+### [`checkValidString 678. 有效的括号字符串（动态规划+模拟）`](./leetcode/checkValidString/checkValidString.go)
+
 
 ##  程序员面试金典（第 6 版）
 
