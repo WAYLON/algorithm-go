@@ -223,6 +223,8 @@
 
 ### [`peakIndexInMountainArray 852. 山脉数组的峰顶索引（二分法）`](./leetcode/peakIndexInMountainArray/peakIndexInMountainArray.go)
 
+### [`findPeakElement 162. 寻找峰值（二分法）`](./leetcode/findPeakElement/findPeakElement.go)
+
 ### [`isUgly 263. 丑数（朴素解法）`](./leetcode/isUgly/isUgly.go)
 
 ### [`nthUglyNumber 264. 丑数 II（三指针）`](./leetcode/nthUglyNumber/nthUglyNumber.go)
