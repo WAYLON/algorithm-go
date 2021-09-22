@@ -287,6 +287,8 @@
 
 ### [`isValidSudoku 36. 有效的数独（数组）`](./leetcode/isValidSudoku/isValidSudoku.go)
 
+### [`lengthOfLastWord 58. 最后一个单词的长度（字符串）`](./leetcode/lengthOfLastWord/lengthOfLastWord.go)
+
 
 ##  程序员面试金典（第 6 版）
 
