@@ -289,6 +289,8 @@
 
 ### [`lengthOfLastWord 58. 最后一个单词的长度（字符串）`](./leetcode/lengthOfLastWord/lengthOfLastWord.go)
 
+### [`isPowerOfThree 326. 3的幂（数学）`](./leetcode/isPowerOfThree/isPowerOfThree.go)
+
 
 ##  程序员面试金典（第 6 版）
 
