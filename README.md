@@ -185,6 +185,8 @@
 
 ### [`canCross 403. 青蛙过河（动态规划）`](./leetcode/canCross/canCross.go)
 
+### [`lengthOfLIS 300. 最长递增子序列（动态规划+二分）`](./leetcode/lengthOfLIS/lengthOfLIS.go)
+
 ### [`numWays 1269. 停在原地的方案数（动态规划）`](./leetcode/numWays/numWays.go)
 
 ### [`numRabbits 781. 森林中的兔子（贪心算法）`](./leetcode/numRabbits/numRabbits.go)
