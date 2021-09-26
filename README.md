@@ -293,6 +293,8 @@
 
 ### [`isPowerOfThree 326. 3的幂（数学）`](./leetcode/isPowerOfThree/isPowerOfThree.go)
 
+### [`getSum 371. 两整数之和（位运算）`](./leetcode/getSum/getSum.go)
+
 
 ##  程序员面试金典（第 6 版）
 
