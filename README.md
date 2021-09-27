@@ -171,6 +171,8 @@
 
 ### [`longestCommonSubsequence 1143. 最长公共子序列（动态规划）`](./leetcode/longestCommonSubsequence/longestCommonSubsequence.go)
 
+### [`minDistance 583. 两个字符串的删除操作（动态规划）`](./leetcode/minDistance/minDistance.go)
+
 ### [`rob 198. 打家劫舍（动态规划）`](./leetcode/rob/rob.go)
 
 ### [`rob 213. 打家劫舍 II（动态规划）`](./leetcode/rob1/rob1.go)

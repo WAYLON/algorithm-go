@@ -36,12 +36,12 @@ func longestCommonSubsequence(text1 string, text2 string) int {
 	for i := range dp {
 		dp[i] = make([]int, n+1)
 	}
-	for i := 0; i < m; i++ {
-		for j := 0; j < n; j++ {
-			if text1[i] == text2[j] {
-				dp[i+1][j+1] = dp[i][j] + 1
+	for i := 1; i < m+1; i++ {
+		for j := 1; j < n+1; j++ {
+			if text1[i-1] == text2[j-1] {
+				dp[i][j] = dp[i-1][j-1] + 1
 			} else {
-				dp[i+1][j+1] = max(dp[i][j+1], dp[i+1][j])
+				dp[i][j] = max(dp[i-1][j], dp[i][j-1])
 			}
 		}
 	}
@@ -71,6 +71,25 @@ class Solution {
             }
         }
         return dp[m][n];
+    }
+}
+
+class Solution {
+    public int longestCommonSubsequence(String text1, String text2) {
+        int n = text1.length();
+        int m = text2.length();
+        int[][] dp = new int[n + 1][m + 1];
+
+        for (int i = 1; i < n + 1; i++) {
+            for (int j = 1; j < m + 1; j++) {
+                if (text1.charAt(i - 1) == text2.charAt(j - 1)) {
+                    dp[i][j] = dp[i - 1][j - 1] + 1;
+                } else {
+                    dp[i][j] = Math.max(dp[i - 1][j], dp[i][j - 1]);
+                }
+            }
+        }
+        return dp[n][m];
     }
 }
 */
